@@ -32,5 +32,5 @@ function handleFormSubmit(event) {
 }
 
 $setLogin.on('click', setAuth.bind(null, 'login'));
-$setLogin.on('click', setAuth.bind(null, 'login'));
 $setSignUp.on('click', setAuth.bind(null, 'signup'));
+$submitButton.on('click', handleFormSubmit);
