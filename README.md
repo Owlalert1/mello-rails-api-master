@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a front-end version of Mello App that connects to a Rails back end. It has functionality for user authentication, adding multiple boards, board contributors and editing.
 
-Things you may want to cover:
+![](./image/screenshot.PNG)
+![](./image/screenshot1.PNG)
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://jhmello-rails.herokuapp.com
